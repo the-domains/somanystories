@@ -1,4 +1,5 @@
-layout_spectrum: 0.6466165
+favicon: null
+name: somanystories
 opengraph:
   image: null
   type: null
@@ -28,13 +29,12 @@ color:
     - '#9c712d'
   lightness: 0.1099949034396559
 typography_spectrum: 0.5344611
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.04385965
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: somanystories
+cta:
+  bucket: null
+  version: null
+  domain: null
