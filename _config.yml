@@ -1,7 +1,5 @@
-cta:
-  bucket: null
-  version: null
-  domain: null
+favicon: null
+name: somanystories
 opengraph:
   image: null
   type: null
@@ -31,10 +29,12 @@ color:
     - '#9c712d'
   rhythmicContrast: 0.6340852
 typography_spectrum: 0.5344611
-layout_spectrum: 0.8201754
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: somanystories
+layout_spectrum: 0.9373434
