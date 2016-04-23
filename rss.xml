@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[somanystories]]></title>
+        <description><![CDATA[somanystories]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Apr 2016 12:51:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Het begin]]></title>
+            <description><![CDATA[<p>Regelmatig krijgen Jetse en ik te horen dat we zoveel verhalen te vertellen hebben. Over ons leven, bedrijf, reizen en ervaringen. Het verzoek bereikte ons om onze verhalen te delen. En waarom eigenlijk niet? We zouden ze natuurlijk voor onszelf kunnen houden of alleen kunnen vertellen aan onze familie en vrienden. Maar misschien zijn onze verhalen ook leuk, mooi, interessant voor anderen. Laten we het dus maar eens proberen. We horen natuurlijk graag wat je ervan vindt. </p>]]></description>
+            <link>undefinedhet-begin/index.html</link>
+            <guid isPermaLink="false">2573e20b-a836-4c7c-9b97-15bd47725b1b</guid>
+            <pubDate>Sat, 23 Apr 2016 12:51:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
