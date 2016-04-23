@@ -1,7 +1,11 @@
-name: somanystories
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.19244
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
@@ -14,27 +18,23 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
 color:
+  saturation: 0.5169173
+  brandStrength: 0.5743394596502185
+  lightness: 1
   brandColors:
     - '#d8a361'
     - '#090907'
     - '#f7442d'
     - '#763c28'
     - '#9c712d'
-  brandStrength: 0.1875
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.6340852
+typography_spectrum: 0.06766918
+layout_spectrum: 0.9373434
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+name: somanystories
