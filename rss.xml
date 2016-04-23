@@ -4,8 +4,15 @@
         <description><![CDATA[somanystories]]></description>
         <link>https://thegrid.ai/somanystories/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 14:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2016 14:54:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/somanystories/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Work in progress]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3937ddf7-d7aa-4282-8b22-55df7fa96303.jpg">]]></description>
+            <link>https://thegrid.ai/somanystories/hmmmm-het-is-toch-niet-zo-eenvoudig-als-het-lijkt-je-zou-d/index.html</link>
+            <guid isPermaLink="false">35d661d5-9d91-44be-b95f-883b740a1f5a</guid>
+            <pubDate>Sat, 23 Apr 2016 14:53:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trial and error]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38f7fefa-bd43-499a-8610-eb5b3d6d73d4.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/somanystories/ido-boys/index.html</link>
             <guid isPermaLink="false">b7a1d6db-4f15-43ff-b2de-b027a37a8ddf</guid>
             <pubDate>Sat, 23 Apr 2016 14:45:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3937ddf7-d7aa-4282-8b22-55df7fa96303.jpg">]]></description>
-            <link>https://thegrid.ai/somanystories/hmmmm-het-is-toch-niet-zo-eenvoudig-als-het-lijkt-je-zou-d/index.html</link>
-            <guid isPermaLink="false">35d661d5-9d91-44be-b95f-883b740a1f5a</guid>
-            <pubDate>Sat, 23 Apr 2016 14:38:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
