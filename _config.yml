@@ -1,7 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -22,7 +22,7 @@ purpose: []
 color:
   saturation: 0.5169173
   brandStrength: 0.5743394596502185
-  lightness: 0.8759398
+  lightness: 1
   brandColors:
     - '#d8a361'
     - '#090907'
@@ -31,10 +31,10 @@ color:
     - '#9c712d'
   rhythmicContrast: 0.6340852
 typography_spectrum: 0.5344611
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.04385965
+layout_spectrum: 0.8201754
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 favicon: null
 name: somanystories
